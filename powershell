@@ -1,0 +1,7 @@
+#include <stdio,ih>
+
+int main[int numero de argumentos, char **valores de los  argumentos)
+(print("hola_mundo" a/n");
+for(int | 1; i < numero_de_los_argumentos; i++}(
+   printf("Xs\n", valores fe los argumentos[i]};)
+return a:
